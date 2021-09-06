@@ -1,0 +1,10 @@
+/Users/srivallabh-prof/Zbyte/Casper/json-demo/contract/json-template/target/release/deps/version_check-8c386f8a01d3a01d.rmeta: /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/lib.rs /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/version.rs /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/channel.rs /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/date.rs
+
+/Users/srivallabh-prof/Zbyte/Casper/json-demo/contract/json-template/target/release/deps/libversion_check-8c386f8a01d3a01d.rlib: /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/lib.rs /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/version.rs /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/channel.rs /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/date.rs
+
+/Users/srivallabh-prof/Zbyte/Casper/json-demo/contract/json-template/target/release/deps/version_check-8c386f8a01d3a01d.d: /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/lib.rs /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/version.rs /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/channel.rs /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/date.rs
+
+/Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/lib.rs:
+/Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/version.rs:
+/Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/channel.rs:
+/Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/date.rs:

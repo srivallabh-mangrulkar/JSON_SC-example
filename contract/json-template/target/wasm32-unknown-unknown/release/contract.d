@@ -1,0 +1,1 @@
+/Users/srivallabh-prof/Zbyte/Casper/json-demo/contract/json-template/target/wasm32-unknown-unknown/release/contract.wasm: /Users/srivallabh-prof/Zbyte/Casper/json-demo/contract/json-template/src/main.rs

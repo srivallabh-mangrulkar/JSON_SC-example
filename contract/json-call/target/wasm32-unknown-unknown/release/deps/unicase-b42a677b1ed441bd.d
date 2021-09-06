@@ -1,0 +1,10 @@
+/Users/srivallabh-prof/Zbyte/Casper/json-demo/contract/json-call/target/wasm32-unknown-unknown/release/deps/unicase-b42a677b1ed441bd.rmeta: /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/lib.rs /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/ascii.rs /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/unicode/mod.rs /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/unicode/map.rs
+
+/Users/srivallabh-prof/Zbyte/Casper/json-demo/contract/json-call/target/wasm32-unknown-unknown/release/deps/libunicase-b42a677b1ed441bd.rlib: /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/lib.rs /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/ascii.rs /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/unicode/mod.rs /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/unicode/map.rs
+
+/Users/srivallabh-prof/Zbyte/Casper/json-demo/contract/json-call/target/wasm32-unknown-unknown/release/deps/unicase-b42a677b1ed441bd.d: /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/lib.rs /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/ascii.rs /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/unicode/mod.rs /Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/unicode/map.rs
+
+/Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/lib.rs:
+/Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/ascii.rs:
+/Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/unicode/mod.rs:
+/Users/srivallabh-prof/.cargo/registry/src/github.com-1ecc6299db9ec823/unicase-2.6.0/src/unicode/map.rs:
